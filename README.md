@@ -3,7 +3,7 @@ JSP&amp;Servlet,Hibernate kullanılarak oluşturulmuştur,veritabanı olarak MyS
 # Login Ekranı
 ![login ekrani](https://user-images.githubusercontent.com/29263633/30776468-96f67e9c-a0af-11e7-95df-7f7e83aba65f.png)
 # Register Ekranı
-![yakinimdaki hastaneler](https://user-images.githubusercontent.com/29263633/30776516-6f657846-a0b0-11e7-891b-73475f1ea008.png)
+![register ekrani](https://user-images.githubusercontent.com/29263633/30776515-6f60c166-a0b0-11e7-9b3a-25cd75c80ee1.png)
 # Randevu Ekle Ekranı
 ![randevu al](https://user-images.githubusercontent.com/29263633/30776521-6f815138-a0b0-11e7-96d2-bfd2c0ce196f.png)
 # Randevu Gecmisi Ekranı
